@@ -11,7 +11,10 @@
 - 🧑‍💻 Tech I work on :
 
 
+ 
+ 
  [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,bootstrap,js,react,spring,docker,discordjs,github,vscode,idea,hibernate,linux,maven,mysql,postman,rabitmq,wordpess&theme=light)](https://skillicons.dev)
+ 
 
  
 
