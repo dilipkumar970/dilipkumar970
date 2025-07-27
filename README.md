@@ -13,7 +13,7 @@
 
  
  
- [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,bootstrap,js,react,spring,docker,discordjs,github,vscode,idea,hibernate,linux,maven,mysql,postman,rabbitmq,wordpress&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,bootstrap,js,react,spring,generativeai,docker,discordjs,github,vscode,idea,hibernate,linux,maven,mysql,postman,rabbitmq,wordpress&theme=light)](https://skillicons.dev)
  
 
  
